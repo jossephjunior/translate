@@ -1,0 +1,9 @@
+deepl==1.7.0
+git+https://github.com/Rapptz/discord.py
+python-dotenv
+lingua-language-detector==1.0.1
+pymongo==4.1.1
+pymongo[srv]
+dnspython==2.2.0
+google-cloud-translate==2.0.1
+google-auth==1.35.0
